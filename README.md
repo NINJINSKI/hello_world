@@ -1,2 +1,2 @@
 # hello_world
-My first GitHub program
+Hello.  Setting up my GitHub for the first time.  I am not regular. Bangdengdengdeng!
